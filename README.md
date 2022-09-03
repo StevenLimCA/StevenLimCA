@@ -1,5 +1,4 @@
 <h1 align="center">Why hello there! 👋, I am Steven Lim</h1>
-<h3 align="center">A passionate full stack web developer from Vancouver, BC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevenlimca&label=Profile%20views&color=0e75b6&style=flat" alt="stevenlimca" /> </p>
 
